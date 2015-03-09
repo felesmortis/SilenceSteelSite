@@ -1,0 +1,24 @@
+$pColor: #FFFFFF;
+$sColor: #000000;
+
+body {
+	padding-top: 50px;
+}
+
+#content {
+	margin: 5% 20%;
+}
+
+.nav {
+	position: static;
+}
+
+.nav.floating {
+	position: fixed;
+	top: 0;
+	left: 20%;
+}
+
+.ddlMenuItem {
+	display: inline;
+}
